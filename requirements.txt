@@ -1,0 +1,42 @@
+# Core ML / DL
+torch>=2.1.0
+transformers==4.40.0
+scikit-learn==1.4.0
+
+# Data handling
+pandas==2.2.0
+numpy==1.26.3
+
+# Jupyter for notebooks
+notebook==7.0.7
+jupyterlab==4.0.11
+
+# Metrics & reports
+matplotlib==3.8.2
+seaborn>=0.12.0
+
+# Performance monitoring
+psutil>=5.9.0
+
+# Web app dependencies
+streamlit>=1.28.0
+Pillow>=9.0.0
+python-dotenv>=1.0.0
+
+# Language processing
+langdetect>=1.0.9
+googletrans==4.0.0rc1
+
+# Image processing
+imagehash>=4.3.1
+ExifRead>=3.0.0
+scipy>=1.10.0
+opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
+
+# Video processing
+moviepy>=1.0.3
+
+# Progress bars
+tqdm>=4.64.0
+scikit-image>=0.22.0
