@@ -1,0 +1,47 @@
+# Python virtual environments
+.venv/
+env/
+venv/
+venv_tf/   # <--- add this line
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.db
+
+# Model files
+models/
+*.pt
+*.bin
+*.joblib
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+config
+Demo_video.mp4
