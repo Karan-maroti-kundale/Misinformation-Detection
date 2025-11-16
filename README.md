@@ -1,4 +1,4 @@
-# 🛡️ AI-Powered Misinformation Detection & Literacy Assistant
+# 🛡️ AI-Powered Misinformation Detection
 
 An advanced, multilingual AI system designed to **detect and explain misinformation** across **text, images, and videos** — with an **India-first** approach to empower newsrooms, fact-checkers, educators, banks, and public agencies.
 
