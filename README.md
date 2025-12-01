@@ -17,9 +17,8 @@ It combines transformer-based NLP models (DistilBERT), media integrity checks, a
 
 ---
 
-## 🧱 Project Structure
+### 🧱 Project Structure
 
-/
 ├─ README.md
 ├─ requirements.txt
 ├─ LICENSE
@@ -30,7 +29,6 @@ It combines transformer-based NLP models (DistilBERT), media integrity checks, a
 │ └─ .env.example # Place API keys here (copy to .env)
 ├─ data/
 │ ├─ news_dataset.csv # Small labeled dataset for text classification
-│ └─ README.md
 ├─ notebooks/
 │ ├─ 01_training.ipynb # Train the text classifier (PyTorch DistilBERT)
 │ └─ 02_testing.ipynb # Load & test the trained model
@@ -42,7 +40,6 @@ It combines transformer-based NLP models (DistilBERT), media integrity checks, a
 │ └─ tips.py # Media literacy tips and explanations
 └─ run_app.sh # One-line helper to launch the Streamlit app
 
-text
 
 ---
 
